@@ -9,5 +9,5 @@ This package includes an interactive shell script. The script uses homebrew (scr
   * Colors on LS, AutoComplete & Prompt.
   * Custom Prompt with user, ip, dir, and git branch, status glyphs.
 
-### Collaberation:
+### Collaboration:
   * Im a bit of a shell scripting noob and am more than happy for people to collab or give pointers :).
